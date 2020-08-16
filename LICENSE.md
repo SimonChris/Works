@@ -16,12 +16,24 @@ These works are published from:
   Danmark</span>.
 </p>
 
-Games
+<b>Games</b>
 
-Death off the Cuff
+Death off the Cuff (http://www.sichris.com/Games/Cuff)
 
-PataNoir
+PataNoir (http://www.sichris.com/Games/PataNoir)
 
-Trapped in Time
+AlethiCorp (separate repository at https://github.com/SimonChris/AlethiCorp)
 
-AlethiCorp
+Trapped in Time (https://ifdb.tads.org/viewgame?id=juj5b61griyoswn2)
+
+The Example of the Chicken Sexer (https://ifdb.tads.org/viewgame?id=eygiw84lzeks13w)
+
+Grief (http://www.sichris.com/Games/Grief)
+
+Internal Vigilance (https://ifdb.tads.org/viewgame?id=354tixox37lzb1mr)
+
+Note that this only applies to the raw source code, available in this repository. Art, music and graphical interfaces for mobile and PC are not included.
+
+The Android user interface for Death off the Cuff and Patanoir is available separately at https://github.com/SimonChris/AndroidIF, under the MIT License.
+
+
