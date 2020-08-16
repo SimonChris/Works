@@ -1,11 +1,20 @@
-Works by Simon Christiansen relased into the public domain. See license file and http://www.sichris.com/ for details.
+Works by Simon Christiansen relased into the public domain. 
 
-Games
+See the license file for details.
 
-Death off the Cuff
+<b>Games</b>
 
-PataNoir
+Death off the Cuff (http://www.sichris.com/Games/Cuff)
 
-Trapped in Time
+PataNoir (http://www.sichris.com/Games/PataNoir)
 
-AlethiCorp
+AlethiCorp (separate repository at https://github.com/SimonChris/AlethiCorp)
+
+Trapped in Time (https://ifdb.tads.org/viewgame?id=juj5b61griyoswn2)
+
+The Example of the Chicken Sexer (https://ifdb.tads.org/viewgame?id=eygiw84lzeks13w)
+
+Grief (http://www.sichris.com/Games/Grief)
+
+Internal Vigilance (https://ifdb.tads.org/viewgame?id=354tixox37lzb1mr)
+
