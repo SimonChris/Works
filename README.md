@@ -17,4 +17,4 @@ The Example of the Chicken Sexer (https://ifdb.tads.org/viewgame?id=eygiw84lzeks
 Grief (http://www.sichris.com/Games/Grief)
 
 Internal Vigilance (https://ifdb.tads.org/viewgame?id=354tixox37lzb1mr)
-Competition release. The source code for release 2 is not available.
+<div>Competition release. The source code for release 2 is not available.</div>
