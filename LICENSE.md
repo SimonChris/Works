@@ -16,6 +16,7 @@ These works are published from:
   Danmark</span>.
 </p>
 
+<p>
 <b>Games</b>
 
 Death off the Cuff (http://www.sichris.com/Games/Cuff)
@@ -35,7 +36,9 @@ Internal Vigilance (https://ifdb.tads.org/viewgame?id=354tixox37lzb1mr)
 Note that the license only applies to the raw source code, available in this repository. Art, music and graphical interfaces for mobile and PC are not included.
 
 The Android user interface for Death off the Cuff and Patanoir is available separately at https://github.com/SimonChris/AndroidIF, under the MIT License.
+</p>
 
+<p>
 <b>Stories (original publication in paranthesis)</b>
 
 The Capacity to Serve (https://lackingtons.com/2020/05/01/the-capacity-to-serve-by-simon-christiansen/)
@@ -47,8 +50,9 @@ Keshi Yena (https://eldritchlake.com/Magazine/ Missing SSL certificate as of 202
 Trapped in Time (https://ifdb.tads.org/viewgame?id=juj5b61griyoswn2)
 
 The license only applies to the raw text of the stories. Illustrations and presentation unique to the original publication is not included.
+</p>
 
+<p>
 For both games and stories, the "moral rights" (https://en.wikipedia.org/wiki/Moral_rights) to attribution and the integrity of the work still apply.
 Danish law does not allow me to waive these rights, except on a case-by-case basis.
-
-
+</p>
