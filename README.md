@@ -19,6 +19,8 @@ Grief (http://www.sichris.com/Games/Grief)
 <div>Internal Vigilance (https://ifdb.tads.org/viewgame?id=354tixox37lzb1mr)</div>
 <div>Competition release. The source code for release 2 is not available.</div>
 
+<br/>
+
 <b>Stories (original publication in paranthesis)</b>
 
 The Capacity to Serve (https://lackingtons.com/2020/05/01/the-capacity-to-serve-by-simon-christiansen/)
