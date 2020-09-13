@@ -2,7 +2,7 @@ Works by Simon Christiansen relased into the public domain.
 
 See the license file for details.
 
-For more information about my work, see www.sichris.com
+For more information about my work, see www.sichris.com.
 
 <p>
 <b>Games</b>
