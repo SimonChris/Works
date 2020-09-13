@@ -2,7 +2,7 @@ Works by Simon Christiansen relased into the public domain.
 
 See the license file for details.
 
-<b>Games</b>
+<p><b>Games</b></p>
 
 Death off the Cuff (http://www.sichris.com/Games/Cuff)
 
@@ -19,9 +19,7 @@ Grief (http://www.sichris.com/Games/Grief)
 <div>Internal Vigilance (https://ifdb.tads.org/viewgame?id=354tixox37lzb1mr)</div>
 <div>Competition release. The source code for release 2 is not available.</div>
 
-<br/>
-
-<b>Stories (original publication in paranthesis)</b>
+<p><b>Stories (original publication in paranthesis)</b></p>
 
 The Capacity to Serve (https://lackingtons.com/2020/05/01/the-capacity-to-serve-by-simon-christiansen/)
 
