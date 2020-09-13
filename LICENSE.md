@@ -6,7 +6,7 @@
   <br />
   To the extent possible under law,
   <a rel="dct:publisher"
-     href="www.sichris.com">
+     href="http:\\www.sichris.com">
     <span property="dct:title">Simon Christiansen</span></a>
   has waived all copyright and related or neighboring rights to
   <span property="dct:title">the works listed below</span>.
