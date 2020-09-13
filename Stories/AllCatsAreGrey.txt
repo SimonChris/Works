@@ -1,0 +1,93 @@
+All Cats Are Grey
+
+by Simon Christiansen
+
+Test failure: Not-(A AND Not-A).
+
+Expected value: True.
+
+Result: Indeterminate.
+
+I stared at the screen for several minutes, sighed, and cancelled my appointments for the rest of the day. I would have to see Nicodemus.
+
+It had been too long since my last visit to the Copenhagen Centre for Experimental Logic. I cursed myself for not being more vigilant in my duties, grabbed my coat, and went out.
+
+A light rain fell from the grey sky, but the drops slid off the surface of the coat, leaving no moisture behind.
+
+My feet still remembered the way. Less than an hour later, I reached the end of the winding path leading to the entrance of the centre, at the top of the hill just outside the city.
+
+The guard at the gatehouse did not recognize me. I had been lax. He was wearing a blue uniform with the logo of the centre, a large stylized ‘P’, embroidered in silver on the front.
+
+“Halt,” he said, patting the tranquillizer gun at his side. In the shadows behind the guardhouse, an Omni-dog patrolled the titanium gates. I made a mental note about the security precautions.
+
+“I am here to see Nicodemus.”
+
+“Do you have an appointment?”
+
+“No.”
+
+The guard waited, apparently expecting more information. When none was forthcoming, he picked up his communicator and had a short, whispered conversation with whoever was on the other end.
+
+“You may pass, sir.” He pushed a button, and the gate slowly opened. The Omni-dog retreated into the shadows.
+
+I made my way through the labyrinthine corridors of the C-CEL complex. Logicians in lab coats stopped and stared as I passed. It was good to see that some people still remembered.
+
+When I reached the door to Nicodemus’ office, I entered without knocking.
+
+Nicodemus sat behind his desk. He had lost weight, but not much. His ginger hair was still unruly. Grey streaks had appeared in his beard.
+
+“I have been expecting you,” he said.
+
+“I should hope so. One of my fundamental tests failed earlier today. What the hell is going on? Your isolation is supposed to be state-of-the-art.”
+
+Nicodemus licked his lips. “I know. We are just having some?… minor issues. Nothing to be concerned about. Coffee?”
+
+I retrieved a soy cigarette from my coat pocket, lit it, and inhaled the invigorating smoke.
+
+“Look, Nico, level with me here, will you? We’re both on the same side. We both want to keep the public safe from your bullshit.” The smoke drifted from my mouth as I spoke.
+
+He nodded. “First of all, I would like to remind you of the importance of the work we do here. There is certainly no need to shut us down, like you did with the Institute of Esoteric Analysis. Why, just last month, we managed to completely extricate the set of all sets not a member of themselves from itself. This development is expected to have wide applications in the field of experimental philosophy, and?…”
+
+I yawned.
+
+“Sorry,” said Nicodemus. “Anyway, lately we have been doing experiments into paradox, using Schrödinger’s cat as a basis, in collaboration with the Department of Arcane Physics. We procured a cat from a local shelter, placed it in an isolated titanium box in a properly isolated test chamber, and went to work.
+
+“At first, the experiment seemed to be a complete success. We managed to keep the cat in a superposition of dead and alive indefinitely, providing a fantastic test ensemble.
+
+“We all went out to celebrate, giddy with the possibilities, trusting in the automated security protocols. When we came back, the lab was in disarray. The isolated titanium box had shattered, leaving mangled pieces all over the room. Even the walls were dented. There was no sign of the cat.
+
+“We thought the wave function must have collapsed, overloading the containment protocols but not leaving anything behind.”
+
+He placed his face in his hands and shuddered. “Then Sonya turned up dead. There were scratches all over her body. But also, simultaneously, there were no scratches. She remained dead, but the cause was indeterminate. It took hours for the state of the body to stabilize!”
+
+He sobbed into his hands.
+
+I took another drag of my cigarette. “So, that’s why my test failed. Your outer containment protocols are insufficient to handle such a pure paradox. The indeterminacy is leaking into the surrounding area.”
+
+“Yes. We believe that the cat is still loose in the centre, unobserved, possibly driven mad by its paradoxical state. We have been trying to observe it, to collapse the state, but with no luck so far.”
+
+“I understand,” I said. “This is more serious than I thought.”
+
+The fluorescent lights above flickered and went out, leaving the office in pitch darkness. I blinked. Nicodemus swore. The lights came back.
+
+I frowned. “I thought this place was supposed to have multiple redundant back-up generators?”
+
+“It has,” said Nicodemus. “It’s a side effect. The lights are working, but they are also not working, if you understand.”
+
+I understood all too well.
+
+“Now, where is that flashlight,” said Nicodemus, opening and closing several desk drawers.
+
+I heard something by the door, scratching, and turned around. Another sound followed, simultaneously a high-pitched shrill meowing and no sound at all.
+
+I steadied myself against the desk and fought back the nausea.
+
+“Doesn’t hearing count as an observation?” I asked.
+
+“By God, I wish it did,” said Nicodemus.
+
+The lights flickered again and went out.
+
+The door creaked open.
+
+I prayed for the lights to come back on, to collapse the options, but the room remained dark; indeterminate.
