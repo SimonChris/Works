@@ -30,7 +30,7 @@ The Capacity to Serve (https://lackingtons.com/2020/05/01/the-capacity-to-serve-
 
 All Cats are Grey (https://www.nature.com/articles/d41586-020-00853-4)
 
-Keshi Yena (https://eldritchlake.com/Magazine/ Missing SSL certificate as of 2020-09-13)
+Keshi Yena (https://eldritchlake.com/Magazine/)
 
 Trapped in Time (https://ifdb.tads.org/viewgame?id=juj5b61griyoswn2)
 </p>
