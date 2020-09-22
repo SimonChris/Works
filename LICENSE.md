@@ -49,7 +49,7 @@ Keshi Yena (https://eldritchlake.com/Magazine/)
 
 Trapped in Time (https://ifdb.tads.org/viewgame?id=juj5b61griyoswn2)
 
-The license only applies to the raw text of the stories. Illustrations and presentation unique to the original publication is not included.
+The license only applies to the raw text of the stories. Illustrations and presentation unique to the original publication are not included.
 </p>
 
 <p>
