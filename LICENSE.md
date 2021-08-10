@@ -57,7 +57,7 @@ For both games and stories, the "moral rights" (https://en.wikipedia.org/wiki/Mo
 Danish law does not allow me to waive these rights, except on a case-by-case basis.
 </p>
 <p>
-The relevant section of Danish Copyright law is as follows (https://wipolex.wipo.int/en/text/191420):
+The relevant section of Danish copyright law is as follows (https://wipolex.wipo.int/en/text/191420):
 </p>
 <div>3.−(1) The author of a work shall have the right to be identified by name as the
 author in accordance with the requirements of proper usage, on copies of the work
