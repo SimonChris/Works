@@ -60,11 +60,11 @@ Danish law does not allow me to waive these rights, except on a case-by-case bas
 The relevant section of Danish Copyright law is as follows (https://wipolex.wipo.int/en/text/191420):
 </p>
 <p>
-3.−(1) The author of a work shall have the right to be identified by name as the
+<div>3.−(1) The author of a work shall have the right to be identified by name as the
 author in accordance with the requirements of proper usage, on copies of the work
-as well as if the work is made available to the public.
- (2) The work must not be altered nor made available to the public in a manner
+as well as if the work is made available to the public.</div>
+ <div>(2) The work must not be altered nor made available to the public in a manner
 or in a context which is prejudicial to the author's literary or artistic reputation or
-individuality.
- (3) The right of the author under this section cannot be waived except in respect of a use of the work which is limited in nature and extent. 
+individuality.</div>
+ <div>(3) The right of the author under this section cannot be waived except in respect of a use of the work which is limited in nature and extent.</div>
 </p>
