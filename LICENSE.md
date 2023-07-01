@@ -39,21 +39,7 @@ The Android user interface for Death off the Cuff and Patanoir is available sepa
 </p>
 
 <p>
-<b>Stories (original publication in paranthesis)</b>
-
-The Capacity to Serve (https://lackingtons.com/2020/05/01/the-capacity-to-serve-by-simon-christiansen/)
-
-All Cats are Grey (https://www.nature.com/articles/d41586-020-00853-4)
-
-Keshi Yena (https://eldritchlake.com/Magazine/)
-
-Trapped in Time (https://ifdb.tads.org/viewgame?id=juj5b61griyoswn2)
-
-The license only applies to the raw text of the stories. Illustrations and presentation unique to the original publication are not included.
-</p>
-
-<p>
-For both games and stories, the "moral rights" (https://en.wikipedia.org/wiki/Moral_rights) to attribution and the integrity of the work still apply.
+The "moral rights" (https://en.wikipedia.org/wiki/Moral_rights) to attribution and the integrity of the work still apply.
 Danish law does not allow me to waive these rights, except on a case-by-case basis.
 </p>
 <p>
